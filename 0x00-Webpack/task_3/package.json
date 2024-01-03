@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    //"dev": "webpack --mode development",
+    "dev": "webpack --mode development",
     "start-dev": "webpack serve --mode development --port 8564 --open",
     "build": "webpack --mode production"
   },
@@ -20,7 +20,8 @@
     "image-webpack-loader": "^8.1.0",
     "style-loader": "^3.3.3",
     "webpack": "^5.89.0",
-    "webpack-cli": "^5.1.4"
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.1"
   },
   "dependencies": {
     "jquery": "^3.7.1",
