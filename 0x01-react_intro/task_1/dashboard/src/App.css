@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+  flex-direction: column;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+.App-header {
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: 16px;
+  color: rgb(223, 21, 21);
+  border-bottom:2px solid red;
+}
+.App-logo{
+  width: 200px;
+  height: 50%;
+  size: 60%;
+  margin-right: 30px;
+  animation: none;
+}
+
+.App-body{
+  width: 96%;
+  height: 68vh;
+  padding: 4%;
+  font-size: 6px;
+  text-align: left;
+  border-bottom: 2px solid red;
+}
+.App-footer {
+  background-color: white;
+  padding: 20px;
+  text-align: center;
+  font-style: italic
+}
+.App-link {
+  color: #61dafb;
+}
