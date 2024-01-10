@@ -11,7 +11,7 @@ function App() {
       <header className="App-header">
         <img src= {HolbertonLogo} alt="Holberton-logo" className='App-logo'/>
         <h1 className='headertext'>School dashboard</h1>
-      </header>s
+      </header>
       <body className="App-body">
         <h1>Login to access the full dashboard</h1>
         <form>
