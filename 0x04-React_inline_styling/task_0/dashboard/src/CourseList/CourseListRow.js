@@ -36,4 +36,5 @@ CourseListRow.defaultProps = {
   textSecondCell: null,
 };
 
+
 export default CourseListRow;
